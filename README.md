@@ -14,7 +14,6 @@ It allows you to manage your games, contact the studio, and change language or o
 ## ⚙️ Installation
 1. Download the `EagleLauncher.exe` file  
 2. Double-click to run it  
-3. (Optional) desktop shortcut for easier access is in a bin/realese/net8.0-windows/
 
 ---
 
